@@ -1,0 +1,6 @@
+ID;IDinkoop;omschr;verkoopprijs;aantal;verkoopdatum
+2;4;Dingetje-Rood;22;3;2023-11-11
+3;5;Dingetje-Blauw;22;3;2023-11-11
+4;5;Dingetje-Super;17.7;7;2023-11-10
+5;5;Dingetje-Super;17.7;7;2023-11-12
+6;6;Dingetje-Super;12.34;23;2023-11-11

@@ -1,0 +1,7 @@
+ID;omschr;inkoopprijs;aantal;expdatum;inkoopdatum
+2;Dingetje-Standaard;7.5;20;2024-21-28;2023-11-11
+3;Dingetje-Super;6.45;10;2023-11-11;2023-11-05
+4;Dingetje-Rood;16.60;10;2024-01-25;2023-11-14
+5;Dingetje-Blauw;11.60;25;2024-01-23;2023-11-11
+6;Dingetje-Super;6.99;15;2024-01-25;2023-11-08
+7;Dingetje-Super;6.99;15;2024-01-25;2023-11-21
