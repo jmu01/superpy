@@ -15,7 +15,7 @@ def verk( args ):
 
     print("* In func Verkoop")
     #print( "Args: ", args )   
-    print( f"Verkocht: {args.aantal} van {args.productnaam} voor € {args.verkoopprijs}")
+    # print( f"Verkocht: {args.aantal} van {args.productnaam} voor € {args.verkoopprijs}")
 
     # sysDatum = readDatum()
     sysDatum = args.verkdatum
